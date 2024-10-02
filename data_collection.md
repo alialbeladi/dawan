@@ -46,11 +46,11 @@ However, all the samples collected in this study were sorted by
 professionally trained labor (Al-Daif sorting facility in AlBukairiah).
 
 <p align="center">
-  <img src="assets/images/Mufattal.png" width="150" title="hover text">
-  <img src="assets/images/Qisher.png" width="150" alt="accessibility text">
-  <img src="assets/images/Rutab.png" width="150" title="hover text">
-  <img src="assets/images/Galaxy.png" width="150" alt="accessibility text">
-  <img src="assets/images/Nagad.png" width="150" title="hover text">
+  <img src="assets/images/Mufattal.png" width="150" text="Mufattal">
+  <img src="assets/images/Qisher.png" width="150" text="Qisher">
+  <img src="assets/images/Rutab.png" width="150" text="Rutab">
+  <img src="assets/images/Galaxy.png" width="150" text="Galaxy">
+  <img src="assets/images/Nagad.png" width="150" text="Nagad">
 </p>
 
 ![](assets/images/Mufattal.png){width="70"}
