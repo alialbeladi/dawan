@@ -2,34 +2,15 @@
 title: Home
 layout: home
 ---
+Date palm production in KSA has grown substantially in the last decade, and more is being
+exported outside the kingdom. To keep up with this rising demand, the date palm industry needs technologies that improve the efficiency of production and post-harvesting processes. Artificial Intelligence (AI) has been implemented in various agricultural sectors to increase productivity; however, there is a significant lack of AI solutions designed explicitly for date fruits.
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+A crucial post-harvest procedure for fruits involves sorting and grading them by attributes such as color, size, moisture content, and skin quality. Currently, small to medium-scale farmers rely on manual sorting, which results in a process that is expensive, time-consuming, and often inconsistent and inaccurate. Automation would enhance sorting precision and ensure a higher level of grading consistency across various farms.
+One major barrier is the lack of open-source datasets for graded and sorted date fruit images. 
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+In this paper, we present our efforts to construct an open-source dataset of Sukkari dates that are sorted and graded based on market standards.
+We chose Sukkari dates because of the complexity of their grading criteria and their widespread availability.
+To enhance productivity, we developed a system that automates the data collection process, which is explained in Section 2.
+This dataset comprises 14,000 images, each sorted into one of five categories, as detailed in Section 3. 
+The long-term goal of this project is to commercialize a compact, low-cost machine that automates the sorting and classification of date fruits for small and medium-sized farmers. Section 4 elaborates on our efforts to achieve this objective using the current dataset.
 
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-To get started with creating a site, simply:
-
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
-
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
