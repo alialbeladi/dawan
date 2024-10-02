@@ -59,9 +59,9 @@ given in Section 4.??. All cameras were connected to a laptop (Lenovo
 ThinkPad, Intel i7, 16GB RAM) via USB, which also provided power to the
 cameras.
 
-![](blackfly_camera.jpg){width="\\textwidth"}
+![](assets/images/blackfly_camera.jpg){width="\\textwidth"}
 
-![](grasshopper_camera.jpg){width="\\textwidth"}
+![](assets/images/grasshopper_camera.jpg){width="\\textwidth"}
 
 Note that the cameras discussed above are equipped with global shutters.
 This feature is essential to reduce motion blur and produce sharp and
@@ -80,7 +80,7 @@ of our software is developed using libraries that are easily accessible,
 well-maintained, and open source. Following is a brief overview of the
 main components designed to achieve this goal:
 
-![Software components](software_components.png){#fig:software_components
+![Software components](assets/images/software_components.png){#fig:software_components
 width="0.5\\linewidth"}
 
 -   **Image Grabber:** This module manages the control and retrieval of
