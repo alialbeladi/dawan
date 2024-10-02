@@ -1,5 +1,5 @@
 ---
-title: Data Collection Setup
+title: How We Collected the Data
 layout: default
 nav_order: 2
 ---
@@ -7,7 +7,7 @@ nav_order: 2
 # Data Collection Setup
 
 A data collection system, shown in Figure
-[1](./assets/images/Mechanical_System.png),
+[1][Mechanical system],
 was designed and manufactured to ensure the capture of high-quality
 images of dates through an efficient and automated process. The system
 consisted of 3 main components - the mechanical system, the imaging
@@ -24,9 +24,9 @@ continuous flow of dates to the imaging station. Then an infrared sensor
 one. Afterwards, the dates moved inside the imaging station, where their
 images were captured.
 
-![Mechanical system](assets/images/Mechanical_System.png){width=100}
+![Mechanical system](assets/images/Mechanical_System.png){#fig:mech_system
+width="0.5\\linewidth"}
 
-<img src="assets/images/Mechanical_System.png" alt="drawing" width="200"/>
 ## Imaging Station
 
 The imaging system consisted mainly of a lighting setup along with the
