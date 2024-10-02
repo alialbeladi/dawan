@@ -1,4 +1,7 @@
-
+---
+title: Migration and Upgrading
+layout: default
+---
 
 # Data Collection
 
