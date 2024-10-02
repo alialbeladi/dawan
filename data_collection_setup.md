@@ -1,6 +1,7 @@
 ---
 title: Data Collection Setup
 layout: default
+nav_order: 2
 ---
 
 # Data Collection Setup
