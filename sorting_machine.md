@@ -1,3 +1,7 @@
+---
+title: Data Collection
+layout: default
+---
 
 # Progress in Sorting Machine Development
 
