@@ -1,6 +1,7 @@
 ---
 title: Progress in Sorting Machine Development
 layout: default
+nav_order: 4
 ---
 
 # Progress in Sorting Machine Development
