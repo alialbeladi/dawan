@@ -24,24 +24,40 @@ reference="fig:labels"}.
 
 -   **Mufattal** Sukkari date with a low level of skin delamination,
     gold color, and low level of moisture,
-
+    
+<p align="center">
   <img src="assets/images/Mufattal.png" width="150" text="Mufattal">
-  
+</p>
+    
 -   **Galaxy** Sukkari date with low level of skin delamination, dark
     brown color, low level of moisture,
+    
+  <p align="center">
   <img src="assets/images/Galaxy.png" width="150" text="Galaxy">
+</p>
 
 -   **Qisher** Sukkari date with a high level of skin delamination and a
     low level of moisture, regardless of its color,
-<img src="assets/images/Qisher.png" width="150" text="Qisher">
+    
+<p align="center">
+  <img src="assets/images/Qisher.png" width="150" text="Qisher">
+</p>
+    
 -   **Rutab** Sukkari date with a high level of moisture,
-<img src="assets/images/Rutab.png" width="150" text="Rutab">
+
+<p align="center">
+  <img src="assets/images/Rutab.png" width="150" text="Rutab">
+</p>
+    
 -   **Nagad** Undesired and not for market dates which includes dates
     that are bitten by birds, containing mold, very low moisture level
     (very dry). Nagad label was also used to describe any material that
     was carried in from harvesting like wooden sticks or container
     pieces
-<img src="assets/images/Nagad.png" width="150" text="Nagad">
+<p align="center">
+  <img src="assets/images/Nagad.png" width="150" text="Nagad">
+</p>
+
 Some variations on how these grades are defined by some farmers were
 found. For example, a date with good moisture, color, and tight skin
 could still be classified as Qisher if it is considerably small.
