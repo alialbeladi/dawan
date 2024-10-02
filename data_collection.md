@@ -45,15 +45,15 @@ could still be classified as Qisher if it is considerably small.
 However, all the samples collected in this study were sorted by
 professionally trained labor (Al-Daif sorting facility in AlBukairiah).
 
-![](Mufattal.png){width="\\textwidth"}
+![](assets/images/Mufattal.png){width="\\textwidth"}
 
-![](Qisher.png){width="\\textwidth"}
+![](assets/images/Qisher.png){width="\\textwidth"}
 
-![](Rutab.png){width="\\textwidth"}
+![](assets/images/Rutab.png){width="\\textwidth"}
 
-![](Galaxy.png){width="\\textwidth"}
+![](assets/images/Galaxy.png){width="\\textwidth"}
 
-![](Nagad.png){width="\\textwidth"}
+![](assets/images/Nagad.png){width="\\textwidth"}
 
 ## Data Cleaning
 
@@ -100,28 +100,28 @@ the dataset for classification purposes. The cleaning steps included:
     small, unripe, and bitten dates, thereby improving the dataset's
     granularity and accuracy for subsequent classification tasks.
 
-![](images/mask_0014_box.png){width="\\textwidth"}
+![](assets/images/mask_0014_box.png){width="\\textwidth"}
 
-![](images/bgrimg_0014_box.png){width="\\textwidth"}
+![](assets/images/bgrimg_0014_box.png){width="\\textwidth"}
 
-![](images/CR_DateImage_bgrimg_0014.png){width="\\textwidth"}
+![](assets/images/CR_DateImage_bgrimg_0014.png){width="\\textwidth"}
 
-![](images/WB_DateImage_bgrimg_0014.png){width="\\textwidth"}
+![](assets/images/WB_DateImage_bgrimg_0014.png){width="\\textwidth"}
 
-![](images/clean_1.png){width="\\textwidth"}
+![](assets/images/clean_1.png){width="\\textwidth"}
 
-![](images/clean_2.png){width="\\textwidth"}
+![](assets/images/clean_2.png){width="\\textwidth"}
 
-![](images/clean_3.png){width="\\textwidth"}
+![](assets/images/clean_3.png){width="\\textwidth"}
 
-![](images/clean_4.png){width="\\textwidth"}
+![](assets/images/clean_4.png){width="\\textwidth"}
 
-![](images/clean_5.png){width="\\textwidth"}
+![](assets/images/clean_5.png){width="\\textwidth"}
 
-![](images/nagad_bitten.png){width="\\textwidth"}
+![](assets/images/nagad_bitten.png){width="\\textwidth"}
 
-![](images/nagad_2.png){width="\\textwidth"}
+![](assets/images/nagad_2.png){width="\\textwidth"}
 
-![](images/nagad_notripe.png){width="\\textwidth"}
+![](assets/images/nagad_notripe.png){width="\\textwidth"}
 
-![](images/nagad_small.png){width="\\textwidth"}
+![](assets/images/nagad_small.png){width="\\textwidth"}
