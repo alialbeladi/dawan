@@ -51,17 +51,9 @@ professionally trained labor (Al-Daif sorting facility in AlBukairiah).
   <img src="assets/images/Rutab.png" width="150" text="Rutab">
   <img src="assets/images/Galaxy.png" width="150" text="Galaxy">
   <img src="assets/images/Nagad.png" width="150" text="Nagad">
+    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
 </p>
 
-![](assets/images/Mufattal.png){width="70"}
-
-![](assets/images/Qisher.png){width="70"}
-
-![](assets/images/Rutab.png){width="\\textwidth"}
-
-![](assets/images/Galaxy.png){width="\\textwidth"}
-
-![](assets/images/Nagad.png){width="\\textwidth"}
 
 ## Data Cleaning
 
@@ -108,24 +100,30 @@ the dataset for classification purposes. The cleaning steps included:
     small, unripe, and bitten dates, thereby improving the dataset's
     granularity and accuracy for subsequent classification tasks.
 
-![](assets/images/mask_0014_box.png){width="\\textwidth"}
+<p align="center">
+  <img src="assets/images/mask_0014_box.png" width="150" text="Mufattal">
+  <img src="assets/images/bgrimg_0014_box.png" width="150" text="Qisher">
+  <img src="assets/images/CR_DateImage_bgrimg_0014.png" width="150" text="Rutab">
+  <img src="assets/images/WB_DateImage_bgrimg_0014.png" width="150" text="Galaxy">
+    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</p>
 
-![](assets/images/bgrimg_0014_box.png){width="\\textwidth"}
+<p align="center">
+  <img src="assets/images/clean_1.png" width="150" text="Mufattal">
+  <img src="assets/images/clean_2.png" width="150" text="Qisher">
+  <img src="assets/images/clean_3.png" width="150" text="Rutab">
+  <img src="assets/images/clean_4.png" width="150" text="Galaxy">
+  <img src="assets/images/clean_5.png" width="150" text="Nagad">
+    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</p>
 
-![](assets/images/CR_DateImage_bgrimg_0014.png){width="\\textwidth"}
-
-![](assets/images/WB_DateImage_bgrimg_0014.png){width="\\textwidth"}
-
-![](assets/images/clean_1.png){width="\\textwidth"}
-
-![](assets/images/clean_2.png){width="\\textwidth"}
-
-![](assets/images/clean_3.png){width="\\textwidth"}
-
-![](assets/images/clean_4.png){width="\\textwidth"}
-
-![](assets/images/clean_5.png){width="\\textwidth"}
-
+<p align="center">
+  <img src="assets/images/nagad_bitten.png" width="150" text="Mufattal">
+  <img src="assets/images/nagad_2.png" width="150" text="Qisher">
+  <img src="assets/images/nagad_notripe.png" width="150" text="Rutab">
+  <img src="assets/images/nagad_small.png" width="150" text="Galaxy">
+    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</p>
 ![](assets/images/nagad_bitten.png){width="\\textwidth"}
 
 ![](assets/images/nagad_2.png){width="\\textwidth"}
