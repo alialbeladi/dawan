@@ -45,9 +45,17 @@ could still be classified as Qisher if it is considerably small.
 However, all the samples collected in this study were sorted by
 professionally trained labor (Al-Daif sorting facility in AlBukairiah).
 
-![](assets/images/Mufattal.png){width="\\textwidth"}
+<p align="center">
+  <img src="assets/images/Mufattal.png" width="150" title="hover text">
+  <img src="assets/images/Qisher.png" width="150" alt="accessibility text">
+  <img src="assets/images/Rutab.png" width="150" title="hover text">
+  <img src="assets/images/Galaxy.png" width="150" alt="accessibility text">
+  <img src="assets/images/Nagad.png" width="150" title="hover text">
+</p>
 
-![](assets/images/Qisher.png){width="\\textwidth"}
+![](assets/images/Mufattal.png){width="70"}
+
+![](assets/images/Qisher.png){width="70"}
 
 ![](assets/images/Rutab.png){width="\\textwidth"}
 
