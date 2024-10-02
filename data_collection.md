@@ -12,15 +12,7 @@ During the 2023 Sukkari harvest season, our team spent two months on the
 farm, where we deployed the machine and gathered data. We also
 interviewed more than 20 farmers and visited multiple farms to develop a
 clear understanding of the different grades of Sukkari recognized in the
-market. We categorized the dates into five categories: Mufattal, Qisher,
-Rutab, Galaxy, and Nagad, as shown in Figure
-[\[fig:labels\]](#fig:labels){reference-type="ref"
-reference="fig:labels"}.
-
-We categorized the dates into five distinct groups: Mufattal, Qisher,
-Rutab, Galaxy, and Nagad, as illustrated in Figure
-[\[fig:labels\]](#fig:labels){reference-type="ref"
-reference="fig:labels"}.
+market. We categorized the dates into five categories:
 
 -   **Mufattal** Sukkari date with a low level of skin delamination,
     gold color, and low level of moisture,
@@ -64,16 +56,6 @@ could still be classified as Qisher if it is considerably small.
 However, all the samples collected in this study were sorted by
 professionally trained labor (Al-Daif sorting facility in AlBukairiah).
 
-<p align="center">
-  <img src="assets/images/Mufattal.png" width="150" text="Mufattal">
-  <img src="assets/images/Qisher.png" width="150" text="Qisher">
-  <img src="assets/images/Rutab.png" width="150" text="Rutab">
-  <img src="assets/images/Galaxy.png" width="150" text="Galaxy">
-  <img src="assets/images/Nagad.png" width="150" text="Nagad">
-    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</p>
-
-
 ## Data Cleaning
 
 Following the initial collection of date fruit images, a rigorous
@@ -84,10 +66,23 @@ the dataset for classification purposes. The cleaning steps included:
     $500\times 500$ pixel image with the date in the center. This was
     automated using the date segmentation masks saved while collecting
     the data. This step ensured that the focus remained on the date,
-    reducing the data needed for memory. Figures
-    [\[fig:cropping\]](#fig:cropping){reference-type="ref"
-    reference="fig:cropping"} (a-c) show an example of this process.
+    reducing the data needed for memory. 
+<p align="center">
+  <img src="assets/images/mask_0014_box.png" width="150" text="Mufattal">
+  <img src="assets/images/bgrimg_0014_box.png" width="150" text="Qisher">
+  <img src="assets/images/CR_DateImage_bgrimg_0014.png" width="150" text="Rutab">
+  <img src="assets/images/WB_DateImage_bgrimg_0014.png" width="150" text="Galaxy">
+    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</p>
 
+-   **Brightness Balancing:** To maintain consistency across the
+    dataset, we applied brightness balancing to the cropped images, as
+    shown in Figure
+    [\[fig:cropping\]](#fig:cropping){reference-type="ref"
+    reference="fig:cropping"}(d). This adjustment helped reduce the
+    variance caused by different lighting conditions during image
+    capture, ensuring uniformity in image quality.
+    
 -   **Size-Based Filtering:** To eliminate any irrelevant segmented
     objects, we applied size constraints to the cropped images. Only
     segmented objects within a predefined size range were accepted,
@@ -103,13 +98,7 @@ the dataset for classification purposes. The cleaning steps included:
     [\[fig:cleaning\]](#fig:cleaning){reference-type="ref"
     reference="fig:cleaning"}.
 
--   **Brightness Balancing:** To maintain consistency across the
-    dataset, we applied brightness balancing to the cropped images, as
-    shown in Figure
-    [\[fig:cropping\]](#fig:cropping){reference-type="ref"
-    reference="fig:cropping"}(d). This adjustment helped reduce the
-    variance caused by different lighting conditions during image
-    capture, ensuring uniformity in image quality.
+
 
 -   **Nagad Subcategorization:** Within the Nagad category, additional
     subcategories were created to identify subtle differences among
@@ -119,13 +108,7 @@ the dataset for classification purposes. The cleaning steps included:
     small, unripe, and bitten dates, thereby improving the dataset's
     granularity and accuracy for subsequent classification tasks.
 
-<p align="center">
-  <img src="assets/images/mask_0014_box.png" width="150" text="Mufattal">
-  <img src="assets/images/bgrimg_0014_box.png" width="150" text="Qisher">
-  <img src="assets/images/CR_DateImage_bgrimg_0014.png" width="150" text="Rutab">
-  <img src="assets/images/WB_DateImage_bgrimg_0014.png" width="150" text="Galaxy">
-    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</p>
+
 
 <p align="center">
   <img src="assets/images/clean_1.png" width="150" text="Mufattal">
