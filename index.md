@@ -3,6 +3,8 @@ title: Home
 layout: home
 nav_order: 1
 ---
+# Overview of the Sukkari Dataset
+
 Date palm production in KSA has grown substantially in the last decade, and more is being
 exported outside the kingdom. To keep up with this rising demand, the date palm industry needs technologies that improve the efficiency of production and post-harvesting processes. Artificial Intelligence (AI) has been implemented in various agricultural sectors to increase productivity; however, there is a significant lack of AI solutions designed explicitly for date fruits.
 
