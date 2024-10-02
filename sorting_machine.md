@@ -1,5 +1,5 @@
 ---
-title: Data Collection
+title: Progress in Sorting Machine Development
 layout: default
 ---
 
