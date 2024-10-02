@@ -1,6 +1,7 @@
 ---
 title: Data Collection
 layout: default
+nav_order: 3
 ---
 
 # Data Collection
