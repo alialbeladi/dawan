@@ -11,3 +11,4 @@ To enhance productivity, we developed a system that automates the data collectio
 This dataset comprises 14,000 images, each sorted into one of five categories, as detailed in Section 3. 
 The long-term goal of this project is to commercialize a compact, low-cost machine that automates the sorting and classification of date fruits for small and medium-sized farmers. Section 4 elaborates on our efforts to achieve this objective using the current dataset.
 
+# License
