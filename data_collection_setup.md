@@ -26,6 +26,7 @@ images were captured.
 
 ![Mechanical system](assets/images/Mechanical_System.png){width=100}
 
+<img src="assets/images/Mechanical_System.png" alt="drawing" width="200"/>
 ## Imaging Station
 
 The imaging system consisted mainly of a lighting setup along with the
