@@ -24,7 +24,7 @@ continuous flow of dates to the imaging station. Then an infrared sensor
 one. Afterwards, the dates moved inside the imaging station, where their
 images were captured.
 
-![Mechanical system](assets/images/Mechanical_System.png){#fig:mech_system
+![Mechanical system](assets/images/Mechanical_System.png =100x){#fig:mech_system
 width="0.5\\linewidth"}
 
 ## Imaging Station
