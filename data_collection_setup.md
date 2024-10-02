@@ -7,7 +7,7 @@ nav_order: 2
 # Data Collection Setup
 
 A data collection system, shown in Figure
-[1](#fig:mech_system){reference-type="ref" reference="fig:mech_system"},
+[1](./assets/images/Mechanical_System.png),
 was designed and manufactured to ensure the capture of high-quality
 images of dates through an efficient and automated process. The system
 consisted of 3 main components - the mechanical system, the imaging
