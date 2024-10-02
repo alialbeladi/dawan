@@ -1,5 +1,5 @@
 ---
-title: Migration and Upgrading
+title: Data Collection Setup
 layout: default
 ---
 
